@@ -1,2 +1,2 @@
-# socketio_game
-#Test de jeu avec socket IO
+# Neural_Network
+#Creation d'un reseau neuronal en JS
